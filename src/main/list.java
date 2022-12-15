@@ -57,7 +57,7 @@ public class list {
                     System.out.println(hm);
                 }
                 case 4 -> {
-                    Collections.reverse(laba8);
+                    Collections.reverse(laba8);//kjhgf
                     System.out.println(laba8);
                 }
                 case 5 -> {
