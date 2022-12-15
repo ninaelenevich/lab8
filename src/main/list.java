@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.util.*;
+import java.util.*; //llkk
 
 public class list {
     public static void main(String[] args) throws FileNotFoundException {
@@ -57,7 +57,7 @@ public class list {
                     System.out.println(hm);
                 }
                 case 4 -> {
-                    Collections.reverse(laba8);//kjhgf
+                    Collections.reverse(laba8);
                     System.out.println(laba8);
                 }
                 case 5 -> {
